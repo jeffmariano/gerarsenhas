@@ -5,3 +5,5 @@ Iniciei este projeto no momento que percebi que utilizava senhas muito fracas em
 Foi utilizado:
 
 HTML,CSS e Javascript.
+
+link para acesso: https://jeffmariano.github.io/gerarsenhas/
